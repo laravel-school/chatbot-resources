@@ -22,3 +22,4 @@ Out of curiosity, I am just gathering some chatbot-related resources (articles, 
 - https://www.bhavaniravi.com/software-engineering/how-to-design-a-chatbot-system-architecture
 - https://www.intellectsoft.net/blog/how-to-build-a-chatbot/
 - https://towardsdatascience.com/complete-guide-to-building-a-chatbot-with-spacy-and-deep-learning-d18811465876
+- https://blog.happyfox.com/what-are-chatbot-flows-how-do-you-build-them/
