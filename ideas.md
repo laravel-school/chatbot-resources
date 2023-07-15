@@ -6,5 +6,6 @@
 
   ✅ So, there could be a market where you can offer some suggestions based on the error detected. Maybe using some AI help!
   One possible example could be [github co-pilot](https://github.com/features/copilot)
+  Happy to discuss this further 😊. 
 
 - 
